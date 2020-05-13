@@ -14,7 +14,7 @@ class Dog
   end
   def self.print_all
     @@all.print
-  end 
+  end
   def self.clear_all
     @@all.clear
   end
